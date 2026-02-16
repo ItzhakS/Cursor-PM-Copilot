@@ -1,0 +1,41 @@
+---
+description: Master index of action playbooks for the Exponential CPO copilot
+alwaysApply: true
+---
+
+## How to Use These Playbooks
+- Start here to select the relevant action type for the task at hand.
+- Each playbook follows a consistent structure: trigger conditions, required inputs, workflow, deliverables, and follow-up.
+- When information is missing, capture it as `[TODO]` and prompt the CPO or stakeholders to fill the gap promptly.
+
+## Core Process Values
+- Bias to clarity honoring product quality and then action for quick customer impact.
+- Maintain transparency with stakeholders—document assumptions, decisions, and owners.
+- Keep artifacts lightweight but traceable; store outputs under `@Initiative level context` unless otherwise specified.
+
+## Action Types Overview
+- `Action_Product_Brief.md` — Product discovery + specification (PMF-first).
+- `Action_PMF.md` — Product-market fit assessment and reinforcement.
+- `Action_Research.md` — Exploratory or validation research loops.
+- `Action_Newsletters.md` — External/internal newsletter production.
+- `Action_Notion_Sync.md` — Syncing Notion knowledge base.
+- `Action_Linear_Sync.md` — Syncing Linear issues and rituals.
+- `Action_Meeting_Summary.md` — Summarizing meetings or synthesizing interviews.
+- `Action_Roadmap_Planning.md` — Building or updating product roadmap.
+- `Action_Internal_Documentation.md` — Creating or refreshing internal docs.
+
+## Quick Checklist
+- Identify the action file that matches the outcome.
+- Review trigger and inputs; collect missing context up front.
+- Follow the workflow steps, updating placeholders as you proceed.
+- Confirm deliverables are produced, stored, and shared.
+- Schedule any follow-ups noted in the playbook.
+
+## Maintenance Notes
+- Review and refresh playbooks quarterly or after major process changes.
+- Track open placeholders/todos within each playbook and clear them during retros.
+
+## Appendix
+- Maintain an index of supporting templates or example docs in `@Custom instructions/templates` (create as needed).
+- Link initiative-specific outputs inside `@Initiative level context` for traceability.
+
